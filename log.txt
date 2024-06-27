@@ -1,0 +1,10 @@
+2024-06-06 00:49:06 INFO ====== WebDriver manager ======
+2024-06-06 00:49:06 INFO Get LATEST chromedriver version for google-chrome
+2024-06-06 00:49:06 INFO Get LATEST chromedriver version for google-chrome
+2024-06-06 00:49:06 INFO Driver [C:\Users\JeksiPeksi\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-06-06 00:49:07 INFO Test 1 Start
+2024-06-06 00:49:09 INFO Test 2 Start
+2024-06-06 00:49:10 INFO Test 3 Start
+2024-06-06 00:49:13 INFO Test 4 Start
+2024-06-06 00:49:20 INFO Set alert text
+2024-06-06 00:49:20 INFO Form successfully submitted
